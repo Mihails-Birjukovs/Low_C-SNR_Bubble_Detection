@@ -1,6 +1,6 @@
 # Low_C-SNR_Bubble_Detection
 A Wolfram Mathematica image processing code for bubble flow images with low SNR/CNR.  
-Originally developed for high-FPS neutron imaging in liquid metal.  
+Originally developed for high-FPS neutron imaging through thick (~ 30 mm) liquid metal layers.  
 
 ATTENTION: the post-processing part of the code uses a package
 
