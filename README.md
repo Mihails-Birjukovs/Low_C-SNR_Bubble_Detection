@@ -10,6 +10,7 @@ by Anton Antonov (antononcube)
 
 https://github.com/antononcube
 
+The image processing code is in the MAIN notebook; the two other notebooks are the code used for validation based on reference experiments.
 
 Q: How does the code work?  
 A: A preprint is available at https://arxiv.org/abs/2109.04883 where the inner workings are outlined.  
