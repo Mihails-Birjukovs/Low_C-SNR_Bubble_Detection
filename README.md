@@ -3,6 +3,7 @@ A Wolfram Mathematica image processing code for bubble flow images with low SNR/
 Originally developed for high-FPS neutron imaging through thick (~ 30 mm) liquid metal layers.  
 
 The utilized methods and implementation are outlined in a recent publication:  
+"Resolving Gas Bubbles Ascending in Liquid Metal from Low-SNR Neutron Radiography Images"  
 http://dx.doi.org/10.3390/app11209710  
 where both performance analysis and direct experimental validation are provided.
 
