@@ -9,7 +9,7 @@ where both performance analysis and direct experimental validation are provided.
 
 ATTENTION: the post-processing part of the code uses a package
 https://github.com/antononcube/MathematicaForPrediction/blob/master/QuantileRegression.m  
-by Anton Antonov (antononcube)
+by Anton Antonov (antononcube)  
 https://github.com/antononcube
 
 
