@@ -25,3 +25,8 @@ A: Instructions soon to be posted here.
 
 Q: Is there an example dataset to test the code?  
 A: One will be made public soon, with examples of output.
+
+
+When using this code, please cite:  
+"Resolving Gas Bubbles Ascending in Liquid Metal from Low-SNR Neutron Radiography Images"  
+http://dx.doi.org/10.3390/app11209710  
