@@ -8,17 +8,13 @@ http://dx.doi.org/10.3390/app11209710
 where both performance analysis and direct experimental validation are provided.
 
 ATTENTION: the post-processing part of the code uses a package
-
 https://github.com/antononcube/MathematicaForPrediction/blob/master/QuantileRegression.m
-
 by Anton Antonov (antononcube)
-
 https://github.com/antononcube
 
 
 The image processing code is in the MAIN notebook; the two other notebooks are the code used for validation based on reference experiments.
 
-  
   
 Q: How does one use the code?  
 A: Instructions soon to be posted here.  
